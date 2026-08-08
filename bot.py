@@ -99,5 +99,4 @@ async def clear(ctx, amount: int):
     await msg.delete()
 
 
-TOKEN = os.getenv("TOKEN")
-bot.run(TOKEN)
+TOKENMTUzNTM2ODE1NjEwMzU3MzYwNg.GIuO9O.4uNworGd_-alU1chyZX1owNoAyN5rE8K9gbHYU
